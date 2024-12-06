@@ -36,7 +36,7 @@ Hier ist eine Tabelle mit den fünf wichtigsten funktionalen Black-Box-Tests fü
 ### Markdown Tabelle:
 
 ```markdown
-| ID  | Beschreibung                                       | Erwartetes Resultat                                                | Effektives Resultat                   | Status   | Mögliche Ursache
+| ID  | Beschreibung                                       | Erwartetes Resultat                                                | Effektives Resultat                   | Status   | Mögliche Ursache |
 |-----|---------------------------------------------------|--------------------------------------------------------------------|---------------------------------------|----------|---------------------------------------------|
 | 1   | Benutzer kann sich registrieren                   | Nach Eingabe aller erforderlichen Daten wird der Benutzer registriert und erhält eine Bestätigungs-E-Mail. | Registrierung erfolgreich, E-Mail erhalten | Erfolgreich | -                                             |
 | 2   | Fahrzeugsuche nach Standort und Datum             | Nach Eingabe von Standort und Datum werden verfügbare Fahrzeuge angezeigt. | Liste der verfügbaren Fahrzeuge angezeigt | Erfolgreich | -                                             |
